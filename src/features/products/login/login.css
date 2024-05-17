@@ -1,0 +1,30 @@
+form{
+    margin: 2px;
+}
+.is-error{
+    border-color: rgb(0, 0, 0);
+}
+.error-txt{
+    text-align: center;
+    font-size: 12px;
+    margin: 0;
+    padding: 30px 0 0 30px;
+    color: red;
+}
+.login{
+    text-align: center;
+    margin-left: 55px;
+    width: auto;
+    background-color: rgb(255, 59, 59);
+    padding: 10px 10px;
+    border-radius: 2px;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+}
+input{
+    width: auto;
+}
+/* p{
+    width: auto;
+} */
